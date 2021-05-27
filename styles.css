@@ -1,0 +1,105 @@
+.body-class {
+  background-color: #efd9d1;
+  width: 80%;
+}
+
+/* Navigation Bar */
+.navbar-brand-img {
+  width: 6rem;
+  height: auto;
+}
+
+.navbar {
+  margin: 1.5% auto 3% 18%;
+}
+
+.navbar-top {
+  padding-left: 18%;
+}
+
+.nav-item {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  text-align: right;
+}
+
+/* Body */
+#main-content {
+  padding-left: 20%;
+}
+
+p {
+  font-family: 'Benne', serif;
+  font-size: 1.2rem;
+  padding-top: 1.2rem;
+  padding-bottom: 2rem;
+  font-weight: bold;
+}
+
+.h1-main {
+  font-family: 'Berkshire Swash', cursive;
+  width: 60%;
+  font-weight: bold;
+  padding-bottom: 3.5%;
+}
+
+.h2-body {
+  font-family: 'Berkshire Swash', cursive;
+  font-weight: bold;
+  color: #333333;
+}
+
+.h2-body:hover {
+  color: #6b011f;
+}
+
+.date {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.2rem;
+  color: #6b011f;
+}
+
+/* Footer */
+.navbar-text {
+  padding: 0 10%;
+  display: flow-root;
+}
+
+footer {
+  padding-top: 3%;
+  text-align: center;
+  background-color: #d8ac9c;
+  position: absolute;
+  width: 100%;
+  margin: 0;
+}
+
+.footer-text {
+  padding: 0 28% 2% 28%;
+  font-size: 1.1rem;
+  font-family: 'Roboto Mono', monospace;
+}
+
+ul {
+  ;
+  font-weight: bold;
+  font-family: 'Poppins', sans-serif;
+}
+
+.all-footer {
+  text-align: center;
+}
+
+.a-links {
+  padding: 0 1.4%;
+  color: #333333;
+}
+
+.a-links:hover {
+  color: #6b011f;
+}
+
+.footer-links {
+  width: 100%;
+  padding: 0 16% 2% 16%;
+}
